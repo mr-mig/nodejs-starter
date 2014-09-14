@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-starter",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "bunyan": "^1.0.1",
+    "longjohn": "^0.2.4"
+  },
+  "devDependencies": {
+    "coveralls": "^2.11.1"
+  },
+  "scripts": {
+    "test": ""
+  },
+  "author": "",
+  "license": "ISC"
+}
