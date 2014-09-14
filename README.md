@@ -12,3 +12,10 @@ Opinionated default setup for NodeJS projects.
 * `.travis.yml` - contains `0.11` and `0.10` node binary versions.
 * `.coveralls.yml` - contains `travis-ci` as a targeted CI server. 
 * `.editorconfig` - all files uses **tab** **2 spaces** indentation
+
+## Where do I find another awesome node modules?
+
+Have a look at this curated lists:
+
+* [by @vndmtrx](https://github.com/vndmtrx/awesome-nodejs) 
+* [by @sindresorhus](https://github.com/sindresorhus/awesome-nodejs)
